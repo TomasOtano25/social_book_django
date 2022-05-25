@@ -12,8 +12,28 @@ django-admin startapp core
 python manage.py runserver
 ```
 
+## Migraciones
+
+```
+python manage.py makemigrations
+
+python manage.py migrate
+```
+
+## Crear un super usuario
+
+```
+python manage.py createsuperuser
+```
+
 ## Rutas de acceso
 
 ```
 
 ```
+
+## Usuario
+
+- admin
+- admin@socialbook.com
+- 1212
